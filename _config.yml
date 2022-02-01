@@ -124,12 +124,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 151363b7e3d9cc8331d8 # GitHub Application Client ID
-    clientSecret: eeb93d377b5a8bdced853089a723b3c689341e29  # GitHub Application Client Secret
-    repository  : https://github.com/deut-erium/blog-comments # GitHub repo
-    owner       : deut-erium # GitHub repo owner
+    clientID    : "151363b7e3d9cc8331d8" # GitHub Application Client ID
+    clientSecret: "eeb93d377b5a8bdced853089a723b3c689341e29"  # GitHub Application Client Secret
+    repository  : "https://github.com/deut-erium/blog-comments" # GitHub repo
+    owner       : "deut-erium" # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - deut-erium # - your GitHub Id
+      - "deut-erium" # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
