@@ -1,5 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://deut-erium.github.io/ramblings/feed.xml" rel="self" type="application/atom+xml" /><link href="https://deut-erium.github.io/ramblings/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-06-01T05:24:41+05:30</updated><id>https://deut-erium.github.io/ramblings/feed.xml</id><title type="html">Ramblings</title><subtitle>Ridiculously random ramblings residing in my mind
-</subtitle><author><name>deuterium</name><email>farziemailid69@gmail.com</email></author><entry><title type="html">Pondering randoblurry improvements</title><link href="https://deut-erium.github.io/ramblings/2022/02/04/randoblurry-update.html" rel="alternate" type="text/html" title="Pondering randoblurry improvements" /><published>2022-02-04T00:00:00+05:30</published><updated>2022-02-04T00:00:00+05:30</updated><id>https://deut-erium.github.io/ramblings/2022/02/04/randoblurry-update</id><content type="html" xml:base="https://deut-erium.github.io/ramblings/2022/02/04/randoblurry-update.html"><![CDATA[<p>Perhaps a list of random words is not so fulfilling given it could be just 4 nouns which would be very difficult to put together in a sentence which would end up making no 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://deut-erium.github.io/ramblings/feed.xml" rel="self" type="application/atom+xml" /><link href="https://deut-erium.github.io/ramblings/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-07-04T02:44:37+05:30</updated><id>https://deut-erium.github.io/ramblings/feed.xml</id><title type="html">Ramblings</title><subtitle>Ridiculously random ramblings residing in my mind
+</subtitle><author><name>deuterium</name><email>farziemailid69@gmail.com</email></author><entry><title type="html">What does the term “AI” actually stand for?</title><link href="https://deut-erium.github.io/ramblings/2022/07/01/what-is-ai.html" rel="alternate" type="text/html" title="What does the term “AI” actually stand for?" /><published>2022-07-01T00:00:00+05:30</published><updated>2022-07-01T00:00:00+05:30</updated><id>https://deut-erium.github.io/ramblings/2022/07/01/what-is-ai</id><content type="html" xml:base="https://deut-erium.github.io/ramblings/2022/07/01/what-is-ai.html"><![CDATA[<p>People use AI as an abbreviation for Artificial Intelligence without mercy. 
+What if you read the plethora of articles on the internet about AI the other way?
+<!--more--></p>
+
+<p>Imagine yourself a person cut from all the technology and the buzz around it.<br />
+Or otherwise suppose yourself to be a human with no memory for abbreviations!</p>
+
+<h2 id="what-can-ai-be">What can AI be?</h2>
+<p>I can think of quite a few possibilities</p>
+<ul>
+  <li>Artificial Intelligence (meh)</li>
+  <li>Artificial Insemination (I am really really sorry)</li>
+  <li>Alien Invasion</li>
+  <li>Aphrodisiac Imagination</li>
+  <li>Apocalyptic Incineration</li>
+  <li>Aggressive Immigration</li>
+  <li>Aperiod Immobilization</li>
+</ul>
+
+<p>Did you get an idea already where I am going?</p>
+
+<h2 id="searching-appropriate-articles">Searching appropriate articles</h2>
+<p>Let’s search for webpages containing the “AI” but not “artificial intelligence”<br />
+<code class="language-plaintext highlighter-rouge">AI -"artificial intelligence"</code></p>
+
+<p>There are quite some interesting results! let’s hope they dont change :wink:</p>
+<h3 id="microsofts-framework-for-building-ai-systems-responsibly"><a href="https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/">Microsoft’s framework for building AI systems responsibly</a></h3>
+<blockquote>
+  <p>Today we are sharing publicly Microsoft’s Responsible AI Standard, a framework to guide how we build AI systems. It is an important step in our journey to develop better, more trustworthy AI. We are releasing our latest Responsible AI Standard to share what we have learned, invite feedback from others, and contribute to the discussion about building better norms and practices around AI.</p>
+
+  <p>Guiding product development towards more responsible outcomes
+AI systems are the product of many different decisions made by those who develop and deploy them. From system purpose to how people interact with AI systems, we need to proactively guide these decisions toward more beneficial and equitable outcomes. That means keeping people and their goals at the center of system design decisions and respecting enduring values like fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.</p>
+</blockquote>
+
+<p>No trace of the term “Artificial Intelligence” in sight. Pure wilderness</p>
+
+<h3 id="teaching-ai-to-perceive-the-world-through-your-eyes"><a href="https://ai.facebook.com/blog/teaching-ai-to-perceive-the-world-through-your-eyes/">Teaching AI to perceive the world through your eyes</a></h3>
+<blockquote>
+  <p>AI that understands the world from a first-person point of view could unlock a new era of immersive experiences, as devices like augmented reality (AR) glasses and virtual reality (VR) headsets become as useful in everyday life as smartphones. Imagine your AR device displaying exactly how to hold the sticks during a drum lesson, guiding you through a recipe, helping you find your lost keys, or recalling memories as holograms that come to life in front of you.</p>
+</blockquote>
+
+<p>Okay Artificial Insemination with augmented reality? FB is upto something (evil as usual)</p>
+
+<h3 id="ai-for-good"><a href="https://aiforgood.itu.int/about-ai-for-good/">AI for good</a></h3>
+<blockquote>
+  <p>The goal of AI for Good is to identify practical applications of AI to advance the United Nations Sustainable Development Goals and scale those solutions for global impact. It’s the leading action-oriented, global &amp; inclusive United Nations platform on AI.</p>
+</blockquote>
+
+<p>Things do get bizarre out of context, especially all the buzz words around AI.<br />
+Please dont find articles on the web for AI. My mind is definitely ruined by this thought<br />
+sorry for you too :)</p>]]></content><author><name>deuterium</name><email>farziemailid69@gmail.com</email></author><category term="abbreviations" /><category term="pun" /><category term="artificial_intelligence" /><category term="AI" /><category term="out_of_context" /><summary type="html"><![CDATA[People use AI as an abbreviation for Artificial Intelligence without mercy. What if you read the plethora of articles on the internet about AI the other way?]]></summary></entry><entry><title type="html">Pondering randoblurry improvements</title><link href="https://deut-erium.github.io/ramblings/2022/02/04/randoblurry-update.html" rel="alternate" type="text/html" title="Pondering randoblurry improvements" /><published>2022-02-04T00:00:00+05:30</published><updated>2022-02-04T00:00:00+05:30</updated><id>https://deut-erium.github.io/ramblings/2022/02/04/randoblurry-update</id><content type="html" xml:base="https://deut-erium.github.io/ramblings/2022/02/04/randoblurry-update.html"><![CDATA[<p>Perhaps a list of random words is not so fulfilling given it could be just 4 nouns which would be very difficult to put together in a sentence which would end up making no 
 sense at all. What I learned from my discussion with Z is that I need a proportionate mix of parts of speech.<br />
 Moreover I can have additional difficulty by using the words in order they were presented!</p>]]></content><author><name>deuterium</name><email>farziemailid69@gmail.com</email></author><category term="wordgame" /><category term="randoblurry" /><category term="ponder" /><summary type="html"><![CDATA[Perhaps a list of random words is not so fulfilling given it could be just 4 nouns which would be very difficult to put together in a sentence which would end up making no sense at all. What I learned from my discussion with Z is that I need a proportionate mix of parts of speech. Moreover I can have additional difficulty by using the words in order they were presented!]]></summary></entry><entry><title type="html">Trying out randoblurry</title><link href="https://deut-erium.github.io/ramblings/2022/02/03/randoblurry-test.html" rel="alternate" type="text/html" title="Trying out randoblurry" /><published>2022-02-03T00:00:00+05:30</published><updated>2022-02-03T00:00:00+05:30</updated><id>https://deut-erium.github.io/ramblings/2022/02/03/randoblurry-test</id><content type="html" xml:base="https://deut-erium.github.io/ramblings/2022/02/03/randoblurry-test.html"><![CDATA[<p>Interaction with a friend about randoblurry<br />
 <!--more--></p>
